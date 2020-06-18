@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/movie_app_2020/static/css/main.7ec914ef.chunk.css",
-    "main.js": "/movie_app_2020/static/js/main.c8ea5cff.chunk.js",
-    "main.js.map": "/movie_app_2020/static/js/main.c8ea5cff.chunk.js.map",
+    "main.css": "/movie_app_2020/static/css/main.a50fbee8.chunk.css",
+    "main.js": "/movie_app_2020/static/js/main.63591f8d.chunk.js",
+    "main.js.map": "/movie_app_2020/static/js/main.63591f8d.chunk.js.map",
     "runtime-main.js": "/movie_app_2020/static/js/runtime-main.83f6590a.js",
     "runtime-main.js.map": "/movie_app_2020/static/js/runtime-main.83f6590a.js.map",
     "static/js/2.6fa82bcd.chunk.js": "/movie_app_2020/static/js/2.6fa82bcd.chunk.js",
     "static/js/2.6fa82bcd.chunk.js.map": "/movie_app_2020/static/js/2.6fa82bcd.chunk.js.map",
     "index.html": "/movie_app_2020/index.html",
-    "precache-manifest.dceab0a3dc8033cabe435f5d36a0bb76.js": "/movie_app_2020/precache-manifest.dceab0a3dc8033cabe435f5d36a0bb76.js",
+    "precache-manifest.e0fd7aa008cc06efeea0c356ece7ffaa.js": "/movie_app_2020/precache-manifest.e0fd7aa008cc06efeea0c356ece7ffaa.js",
     "service-worker.js": "/movie_app_2020/service-worker.js",
-    "static/css/main.7ec914ef.chunk.css.map": "/movie_app_2020/static/css/main.7ec914ef.chunk.css.map",
+    "static/css/main.a50fbee8.chunk.css.map": "/movie_app_2020/static/css/main.a50fbee8.chunk.css.map",
     "static/js/2.6fa82bcd.chunk.js.LICENSE.txt": "/movie_app_2020/static/js/2.6fa82bcd.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.83f6590a.js",
     "static/js/2.6fa82bcd.chunk.js",
-    "static/css/main.7ec914ef.chunk.css",
-    "static/js/main.c8ea5cff.chunk.js"
+    "static/css/main.a50fbee8.chunk.css",
+    "static/js/main.63591f8d.chunk.js"
   ]
 }
